@@ -149,4 +149,15 @@ DEALINGS IN THE SOFTWARE.
 
 
 
+---
+
+# 🎯 EXTRA NEXT-LEVEL ADDONS (OPTIONAL BUT 🔥)
+
+### Add GitHub Badges (Top of README)
+```md
+![React](https://img.shields.io/badge/React-18-blue)
+![Node](https://img.shields.io/badge/Node.js-Express-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-darkgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue)
+
 
