@@ -1,4 +1,4 @@
-# 🚀 CipherSQLStudio  
+4# 🚀 CipherSQLStudio  
 ### Full-Stack SQL Practice Platform
 
 CipherSQLStudio is a full-stack SQL practice platform where users can solve real SQL problems by writing and executing queries on a live PostgreSQL database.
@@ -123,6 +123,30 @@ POST /api/execute
 👨‍💻 Author
 Satyaki Kumar
 GitHub: https://github.com/7764019692
+
+Copyright (c) 2025 Satyaki Kumar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software for learning, personal projects, and educational use, including
+without limitation the rights to use, copy, modify, merge, and publish,
+subject to the following conditions:
+
+1. This software may NOT be used for commercial purposes without explicit
+   written permission from the author.
+
+2. Any public use, fork, or redistribution must clearly credit the original
+   author and repository.
+
+3. The Software is provided "AS IS", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose and noninfringement.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
 
 
 
